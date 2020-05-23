@@ -1,12 +1,1 @@
-{
-    "cpf": "056-87856145",
-    "nome": "Ariel Lopes",
-    "telefone": "67991557455",
-    "peso": 85,
-    "altura": 1.79,
-    "dataDeNascimento": "09/10/1994",
-    "tipoSanguinio": "1",
-    "email": "ariel-edit@hotmail.com",
-    "observacao": "apenas Testando",
-    "alergias": 1
-}
+Azul
